@@ -226,4 +226,4 @@ build_prompt() {
 }
 
 PROMPT='%{%f%b%k%}$(build_prompt)
-  %{%F{cyan}%}$ '
+  %{%F{cyan}%}$ %{%F{white}%}'
